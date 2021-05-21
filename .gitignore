@@ -14,8 +14,11 @@ dist/
 downloads/
 eggs/
 .eggs/
+include/
+bin/
 lib/
 lib64/
+lib64
 parts/
 sdist/
 var/
@@ -127,3 +130,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+pyvenv.cfg
